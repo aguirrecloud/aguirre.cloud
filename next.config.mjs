@@ -10,8 +10,8 @@ const nextConfig = {
   },
   images: {
     unoptimized: true
-  }
-  // basePath entfernt für Custom Domain
+  },
+  basePath: '/aguirre.cloud'
 }
 
 export default nextConfig
